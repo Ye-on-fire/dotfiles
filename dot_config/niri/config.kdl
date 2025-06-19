@@ -254,7 +254,7 @@ layout {
 
 // This line starts waybar, a commonly used bar for Wayland compositors.
 spawn-at-startup "xwayland-satellite"
-spawn-at-startup "app2unit" "clash-verge"
+// spawn-at-startup "app2unit" "clash-verge"
 spawn-at-startup "app2unit" "swww-daemon"
 // spawn-at-startup "swaybg" "-m" "fill" "-i" "%h/wallpaper/7731934.png"
 // Uncomment this line to ask the clients to omit their client-side decorations if possible.
